@@ -1,5 +1,5 @@
 # PvZ
-PvZ simulator in 2D and turn-based.
+PvZ simulator using a 2D interface and a turn-based playing system
 
 Project done in TP1 during my second year at university.
 It implements a 2D and turn-based version of the popular mobile game "Plants vs Zombies". Using strict OOP and the terminal as a GUI, you can deploy your plants, pickup suncoins and let the zombies advance, trying to kill them

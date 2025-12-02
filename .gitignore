@@ -4,3 +4,7 @@ bin/
 
 # (Opcional) Ignorar configuraciones locales de usuario
 .metadata/
+
+.settings/
+.classpath
+.project
